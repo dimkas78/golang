@@ -1,0 +1,6 @@
+# Ignore build folder
+# blocks/build/
+
+# Ignore exe files
+*.exe
+

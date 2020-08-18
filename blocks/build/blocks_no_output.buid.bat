@@ -1,0 +1,1 @@
+C:\go\bin\go.exe run C:\SOURCES\go\blocks\src\blocks_no_output.go
